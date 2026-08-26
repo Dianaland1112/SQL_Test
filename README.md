@@ -1,2 +1,2 @@
 # SQL_Test
-SQL 코딩테스
+SQL 코딩테스트
